@@ -13,7 +13,7 @@ Welcome to the Eigen Bootcamp repository! This repository contains all the resou
 ## Getting Started
 1. Clone this repository
 ```bash
-git clone https://github.com/yourusername/Eigen-Bootcamp.git
+git clone https://github.com/smilewithkhushi/Eigen-Bootcamp.git
 ```
 2. Navigate to the project directory
 ```bash
