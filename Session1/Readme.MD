@@ -12,18 +12,26 @@ Eigen Layer is a restaking protocol that allows Ethereum validators to opt into 
 Here are some key visuals from our session:
 | Glimpse | Glimpse |
 |---------------------|----------------------|
-| ![Eigen Layer Architecture](1.png) | ![Security Model Comparison](3.png) |
-| ![Restaking Flow Diagram](2.png) | ![Eigen Layer Ecosystem](4.png) |
+| ![ses](/images/1.png) | ![ses](/images/3.png) |
+| ![ses](/images/2.png) | ![ses](/images/4.png) |
 
-## Working of Eigen Layer
 
-Eigen Layer works by:
+## Hands-on Tasks
 
-1. Allowing ETH stakers to "restake" their ETH
-2. Creating a marketplace for trust
-3. Enabling protocols to use this shared security layer
-4. Reducing the capital costs for new protocols
-5. Maintaining cryptoeconomic security through slashing conditions
+| Task Name | Task Link |
+|-----------|-----------|
+| Research on existing AVS from Eigen Ecosystem | [Coming Soon](#) |
+| Designing an AVS | [Coming Soon](#) |
+| Security Analysis | [Coming Soon](#) |
+| Ecosystem Integration | [Coming Soon](#) |
+
+
+## Highlights
+
+| AVS Ecosystem |  |
+|-----------|-----------|
+| ![AVS Ecosystem 2025](/images/avs_ecosystem.png) | [Coming Soon](#) |
+
 
 
 ## Resources
