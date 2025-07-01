@@ -7,11 +7,9 @@ This session was all about exploring Eigen ecosystem with Wes (Devrel @Eigen Lay
 Eigen Layer is a restaking protocol that allows Ethereum validators to opt into additional validation responsibilities. It creates a decentralized security layer that enables new, innovative protocols to leverage Ethereum's existing security.
 
 
-<br/>
-
 ## Session Photos
 
-Here are some key visuals from our session:
+Here are some key visuals from the session:
 | Glimpse | Glimpse |
 |---------------------|----------------------|
 | ![ses](1.png) | ![ses](3.png) |
@@ -19,6 +17,8 @@ Here are some key visuals from our session:
 
 
 <br/>
+
+
 ## Hands-on Tasks
 
 | Task Name | Task Link |
