@@ -20,14 +20,14 @@ Here are some key visuals from our session:
 
 | Task Name | Task Link |
 |-----------|-----------|
-| Research on Open Ledger(AVS from Eigen Ecosystem) | [Open Ledger](https://x.com/SmileWithKhushi/status/1940029348922179645) |
+| Research on Open Ledger(AVS from Eigen Ecosystem) | [Thread Link](https://x.com/SmileWithKhushi/status/1940029348922179645) |
 
 
 ## Highlights
 
 | AVS Ecosystem | Understanding OpenLedger  |
 |-----------|-----------|
-| ![AVS Ecosystem 2025](avs_ecosystem.png) | [Open Ledger](openledger_intro.png) |
+| ![AVS Ecosystem 2025](avs_ecosystem.png) | ![Open Ledger](openledger_intro.png) |
 
 
 
