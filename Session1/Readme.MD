@@ -12,25 +12,23 @@ Eigen Layer is a restaking protocol that allows Ethereum validators to opt into 
 Here are some key visuals from our session:
 | Glimpse | Glimpse |
 |---------------------|----------------------|
-| ![ses](/images/1.png) | ![ses](/images/3.png) |
-| ![ses](/images/2.png) | ![ses](/images/4.png) |
+| ![ses](1.png) | ![ses](3.png) |
+| ![ses](2.png) | ![ses](4.png) |
 
 
 ## Hands-on Tasks
 
 | Task Name | Task Link |
 |-----------|-----------|
-| Research on existing AVS from Eigen Ecosystem | [Coming Soon](#) |
-| Designing an AVS | [Coming Soon](#) |
-| Security Analysis | [Coming Soon](#) |
-| Ecosystem Integration | [Coming Soon](#) |
+| Research on Open Ledger(AVS from Eigen Ecosystem) | [Open Ledger](https://x.com/SmileWithKhushi/status/1940029348922179645) |
 
 
 ## Highlights
 
-| AVS Ecosystem |  |
+| AVS Ecosystem | Understanding OpenLedger  |
 |-----------|-----------|
-| ![AVS Ecosystem 2025](/images/avs_ecosystem.png) | [Coming Soon](#) |
+| ![AVS Ecosystem 2025](avs_ecosystem.png) | [Open Ledger](openledger_intro.png) |
+
 
 
 
