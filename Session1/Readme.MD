@@ -7,6 +7,8 @@ This session was all about exploring Eigen ecosystem with Wes (Devrel @Eigen Lay
 Eigen Layer is a restaking protocol that allows Ethereum validators to opt into additional validation responsibilities. It creates a decentralized security layer that enables new, innovative protocols to leverage Ethereum's existing security.
 
 
+<br/>
+
 ## Session Photos
 
 Here are some key visuals from our session:
@@ -16,12 +18,16 @@ Here are some key visuals from our session:
 | ![ses](2.png) | ![ses](4.png) |
 
 
+<br/>
 ## Hands-on Tasks
 
 | Task Name | Task Link |
 |-----------|-----------|
 | Research on Open Ledger(AVS from Eigen Ecosystem) | [Thread Link](https://x.com/SmileWithKhushi/status/1940029348922179645) |
+| Hello AI AVS | [GitHub Repository] (https://github.com/smilewithkhushi/hello-ai-avs) |
 
+
+<br/>
 
 ## Highlights
 
